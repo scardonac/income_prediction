@@ -69,7 +69,7 @@ Se realiza un análisis exhaustivo de los datos para comprender mejor la distrib
 Se realizan tareas de codificación y normalización de datos para garantizar la calidad y coherencia de los datos utilizados en el modelado. 
 
 ## Modelado de Datos
-Se aplican técnicas avanzadas de modelado de aprendizaje automático, incluyendo [LightGBM]([https://xgboost.readthedocs.io/en/stable/python/python_intro.html](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html)) y [XGBoost](https://xgboost.readthedocs.io/en/stable/python/python_intro.html), para predecir la demanda de productos. Estos modelos se seleccionaron por su capacidad para manejar grandes volúmenes de datos y su rendimiento en problemas de regresión. Se utilizó la librería Optuna de Python para encontrar los mejores hiperparámetros que se ajusten al modelo.
+Se aplican técnicas avanzadas de modelado de aprendizaje automático, incluyendo [LightGBM](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html) y [XGBoost](https://xgboost.readthedocs.io/en/stable/python/python_intro.html), para predecir la demanda de productos. Estos modelos se seleccionaron por su capacidad para manejar grandes volúmenes de datos y su rendimiento en problemas de regresión. Se utilizó la librería Optuna de Python para encontrar los mejores hiperparámetros que se ajusten al modelo.
 
 ## Evaluación del Modelo
 Se evalúa el rendimiento de los modelos utilizando métricas como el Root Mean Squared Error (RMSE), que proporciona una medida de la precisión de las predicciones. Esta evaluación es crucial para seleccionar el mejor modelo y comprender su capacidad predictiva.
