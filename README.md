@@ -21,6 +21,8 @@
 7. [Modelado de Datos](#modelado-de-datos)
 8. [Evaluación del Modelo](#evaluación-del-modelo)
 9. [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+10. [Contribuciones](#contribuciones)
+11. [Contacto](#contacto)
 
 ## Introducción
 Este proyecto tiene como objetivo predecir los ingresos de una tienda de mobiliario utilizando técnicas avanzadas de aprendizaje automático. Los ingresos son una métrica fundamental para la gestión efectiva de negocios, ya que permiten evaluar el desempeño financiero, realizar proyecciones de crecimiento y tomar decisiones estratégicas en la gestión de inventario y la optimización de la cadena de suministro.
@@ -85,3 +87,20 @@ Para continuar mejorando el rendimiento del modelo de predicción de ingresos, s
 3. Exploración de otros modelos: Además del XGBoost, se recomienda explorar otros modelos de aprendizaje automático que puedan complementar y mejorar las predicciones. Entre ellos se incluyen modelos como LSTM (Long Short-Term Memory) para capturar relaciones temporales complejas, modelos ARIMA y SARIMA para análisis de series temporales, y modelos de ensamble como la combinación de XGBoost y LightGBM para aprovechar las fortalezas de diferentes algoritmos y mejorar la robustez de las predicciones.
 
 Estas estrategias combinadas pueden conducir a un modelo de predicción de ingresos más preciso, robusto y versátil, capaz de brindar información valiosa para la toma de decisiones estratégicas en la gestión empresarial.
+
+## Contribuciones
+Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que realices es muy apreciada.
+
+Si tienes una sugerencia que pueda mejorar esto, por favor haz un fork del repositorio y crea un pull request. También puedes simplemente abrir un issue con la etiqueta "mejora". ¡No olvides darle una estrella al proyecto! ¡Gracias de nuevo!
+
+1. Haz un Fork del Proyecto
+2. Crea tu Rama de Característica (git checkout -b feature/1. caracteristica)
+3. Haz tus Cambios (git commit -m 'Añadir una nueva Característica')
+4. Haz Push a la Rama (git push origin feature/Característica)
+5. Abre un Pull Request
+
+## Contacto
+Si tienes preguntas, comentarios o sugerencias, no dudes en contactarme:
+
+- Sara Cardona: cardonasara571@gmail.com
+- Enlace del Proyecto: https://github.com/scardonac/income_prediction
