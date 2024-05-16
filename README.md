@@ -1,4 +1,4 @@
-# Predicción de ingresos en tienda de mobiliario
+# Predicción de ingresos en tienda mobiliaria
 
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
