@@ -7,7 +7,6 @@
 [![Optuna](https://img.shields.io/badge/Optuna-3.6.1-blue)](https://optuna.org/)
 [![mlflow](https://img.shields.io/badge/mlflow-2.12.1-blue)](https://mlflow.org/)
 
-![GitHub License](https://img.shields.io/github/license/scardonac/income_prediction)
 ![GitHub watchers](https://img.shields.io/github/watchers/scardonac/income_prediction)
 ![GitHub forks](https://img.shields.io/github/forks/scardonac/income_prediction)
 
